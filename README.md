@@ -1,5 +1,4 @@
-# TABBIT소개 영상
-
+# TABBIT소개
 TLDR;
 
 
